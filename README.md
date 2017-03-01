@@ -1,6 +1,6 @@
 # GICTIONARY TASKS
 
-Uygulamanın mevcut hali https://github.com/dnkilic/android-gictionary adresinde var. Bütünüyle eşit iki uygulama olmasına gerek yok ancak temel temel özellikleri eşit olacak.
+Uygulamanın mevcut hali https://github.com/dnkilic/android-gictionary adresinde var. Bütünüyle eşit iki uygulama olmasına gerek yok ancak temel temel özellikleri eşit olacak. Android cihazı olanların uygulamayı https://play.google.com/store/apps/details?id=com.dnkilic.gictionary adresinden indirip incelemeleri faydalı olacaktır.
 
 Ekranın sol üst köşesinde yer alan NavigationDrawer'a benzer bir yapının ios uyarlamasının yapılması, Dictionary - Settings - Credits seçeneklerine dokunulduğunda ayrı ekranların açılması
 
