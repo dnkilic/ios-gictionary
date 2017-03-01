@@ -1,5 +1,7 @@
 # GICTIONARY TASKS
 
+Uygulamanın mevcut hali https://github.com/dnkilic/android-gictionary adresinde var. Bütünüyle eşit iki uygulama olmasına gerek yok ancak temel temel özellikleri eşit olacak.
+
 Ekranın sol üst köşesinde yer alan NavigationDrawer'a benzer bir yapının ios uyarlamasının yapılması, Dictionary - Settings - Credits seçeneklerine dokunulduğunda ayrı ekranların açılması
 
 Credits ekranının Android versiyonu ile eşdeğer biçimde tasarlanması, çalışır durumda olması ve NavigationDrawer'a entegre edilmesi, uygulama icon'unun Android versiyonuyla eşdeğer biçimde ayarlanması
